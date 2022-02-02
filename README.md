@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [توقف عن قراءة كيف تكتب بشكل أفضل؟ أو كيف تكتب 100 مقال في الشهر؟](https://www.md3bm.com/2022/02/stop-reading-about-how-to-write-better.html)
 - [7 نصائح لتنزيل ملفات التورنت بأمان وسرية تامة](https://www.arab-reviewer.com/7-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d9%84%d8%aa%d9%86%d8%b2%d9%8a%d9%84-%d9%85%d9%84%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d9%88%d8%b1%d9%86%d8%aa-%d8%a8%d8%a3%d9%85%d8%a7%d9%86/?utm_source=rss&utm_medium=rss&utm_campaign=7-%25d9%2586%25d8%25b5%25d8%25a7%25d8%25a6%25d8%25ad-%25d9%2584%25d8%25aa%25d9%2586%25d8%25b2%25d9%258a%25d9%2584-%25d9%2585%25d9%2584%25d9%2581%25d8%25a7%25d8%25aa-%25d8%25a7%25d9%2584%25d8%25aa%25d9%2588%25d8%25b1%25d9%2586%25d8%25aa-%25d8%25a8%25d8%25a3%25d9%2585%25d8%25a7%25d9%2586)
 - [ما هو الويب 3.0 أو Web3 ؟ وكيف سيغيّر الإنترنت؟](https://www.arab-reviewer.com/what-is-web-3/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-web-3)
 - [أفضل موقع لتعلّم اللغة الإنجليزية وأساليب تدريس اللغة](https://www.md3bm.com/2022/01/best-english-learning-website.html)
 - [أفضل موقع لإنشاء وتعديل الفيديو أونلاين](https://www.md3bm.com/2022/01/create-and-edit-videos-online.html)
-- [موقع رائع للمقارنة بين الهواتف والأجهزة اللوحية وشاشات العرض ومعرفة أفضل الأسعار](https://www.md3bm.com/2022/01/best-website-to-make-comparisons-between-smartphones.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
