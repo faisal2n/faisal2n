@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية عرض المواضيع حسب التسمية أو التصنيف في مدونات بلوجر](https://www.faisal2n.com/2022/02/show-posts-by-label-on-blogger.html)
 - [أفضل المواقع الإلكترونية والأدوات المفيدة على الإنترنت &lpar;الجزء الثاني&rpar;](https://www.md3bm.com/2022/02/top-useful-websites-part2.html)
 - [طريقة تحويل الكلمات الرئيسية إلى روابط ذكية لتحسين محركات البحث في مدونات بلوجر](https://www.md3bm.com/2022/02/seo-smart-links-for-blogger.html)
 - [من هو الكاتب المستقل ؟ و كيف تصبح كاتبا مستقلا ؟](https://www.md3bm.com/2022/02/what-is-a-freelance-writer.html)
 - [شرح كيفية إضافة أكثر المواضيع تعليقا في مدونات بلوجر](https://www.faisal2n.com/2022/02/most-commented-widget-for-blogger.html)
-- [توقف عن قراءة كيف تكتب بشكل أفضل؟ أو كيف تكتب 100 مقال في الشهر؟](https://www.md3bm.com/2022/02/stop-reading-about-how-to-write-better.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
