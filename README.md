@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل قالب مجلة احترافي لمدونات بلوجر مجانا](https://www.faisal2n.com/2022/01/best-magazine-template-for-blogger.html)
 - [دورات و كورسات مجانية من جوجل وبشهادات معتمدة](https://www.md3bm.com/2022/02/free-courses-from-google.html)
 - [أفضل المواقع والأدوات للتحقق من المقالات والأعمال المسروقة على الإنترنت](https://www.md3bm.com/2022/02/best-free-plagiarism-detection-tools-and-websites.html)
 - [كيفية عرض المواضيع حسب التسمية أو التصنيف في مدونات بلوجر](https://www.faisal2n.com/2022/02/show-posts-by-label-on-blogger.html)
 - [أفضل المواقع الإلكترونية والأدوات المفيدة على الإنترنت &lpar;الجزء الثاني&rpar;](https://www.md3bm.com/2022/02/top-useful-websites-part2.html)
-- [طريقة تحويل الكلمات الرئيسية إلى روابط ذكية لتحسين محركات البحث في مدونات بلوجر](https://www.md3bm.com/2022/02/seo-smart-links-for-blogger.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
