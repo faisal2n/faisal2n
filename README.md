@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل نسخة معربة ومطورة من قالب Median UI ميديان للتحميل مجانا](https://www.md3bm.com/2022/02/best-arab-version-of-median-ui-blogger.html)
 - [شرح كيفية تغيير خط قالب مدونة بلوجر لأي خط من خطوط جوجل بكل سهولة](https://www.faisal2n.com/2022/01/change-fonts-in-blogger.html)
 - [أفضل تطبيق لإنشاء وتحرير الفيديو: كين ماستر برو Kine Master Pro البنفسجي آخر إصدار](https://www.faisal2n.com/2022/02/kine-master-pro.html)
 - [أفضل 6 برامج وأدوات لإصلاح الصور التالفة والمعطوبة لعام 2022](https://www.faisal2n.com/2021/12/top-6-software-and-tools-to-repair-corrupted-pics.html)
 - [أفضل قالب مجلة احترافي لمدونات بلوجر مجانا](https://www.faisal2n.com/2022/01/best-magazine-template-for-blogger.html)
-- [دورات و كورسات مجانية من جوجل وبشهادات معتمدة](https://www.md3bm.com/2022/02/free-courses-from-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
