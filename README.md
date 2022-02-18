@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية تغيير خط قالب ميديان Median UI Template لمدونات بلوجر العربية](https://www.faisal2n.com/2022/02/how-change-font-in-median-ui-template.html)
 - [9 مواقع وأدوات مفيدة لتطوير و تصميم الواجهات الأمامية ومواقع الويب](https://www.md3bm.com/2022/02/9-useful-frontend-development-tools.html)
 - [جالكسي إس22 – Samsung Galaxy S22: السعر والمواصفات والإصدارات وكل شيء](https://www.arab-reviewer.com/samsung-galaxy-s22/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-s22)
 - [أحدث المواقع الاحتيالية - الربح من إختصار الروابط والإحالات والعملات المشفرة لعام 2022](https://www.md3bm.com/2022/02/new-shortlinks-scam-websites.html)
 - [كيفية التحكم في موضع جدول المحتويات &lpar;Table of Contents&rpar; في قالب سيو بلس](https://www.faisal2n.com/2022/02/how-to-control-table-of-contents-in-seoplus-template.html)
-- [أفضل نسخة معربة ومطورة من قالب Median UI ميديان للتحميل مجانا](https://www.md3bm.com/2022/02/best-arab-version-of-median-ui-blogger.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
