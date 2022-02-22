@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [قالب الرابط الآمن Safelink - أفضل قالب لتحويل وإختصار الروابط لمدونات بلوجر](https://www.faisal2n.com/2022/02/safelink-blogger-template.html)
 - [كيفية استخدام موقع Quora للحصول على أفكار محتوى جديد ومميز](https://www.md3bm.com/2022/02/how-to-use-quora-to-get-great-content-ideas.html)
 - [لماذا يجب عليك إستخدام SEMrush للتسويق لعلامتك التجارية ؟](https://www.md3bm.com/2022/02/why-should-use-semrush-for-your-business.html)
 - [كيفية إنشاء مستودع ملفات على GitHub واستخدامه لاستضافة ملفات موقعك](https://www.md3bm.com/2022/02/how-to-host-files-on-github.html)
 - [أسهل طريقة لفتح المواقع المحجوبة والمحظورة على الكمبيوتر](https://www.md3bm.com/2022/02/easy-way-to-open-blocked-websites.html)
-- [كيفية تغيير خط قالب ميديان Median UI Template لمدونات بلوجر العربية](https://www.faisal2n.com/2022/02/how-change-font-in-median-ui-template.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
