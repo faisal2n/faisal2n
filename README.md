@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [قالب سيو بلس Seoplus النسخة المدفوعة الإصدار 7 مجانا للتحميل](https://www.arab-reviewer.com/%d9%82%d8%a7%d9%84%d8%a8-%d8%b3%d9%8a%d9%88-%d8%a8%d9%84%d8%b3-%d9%85%d8%ac%d8%a7%d9%86%d8%a7/?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2582%25d8%25a7%25d9%2584%25d8%25a8-%25d8%25b3%25d9%258a%25d9%2588-%25d8%25a8%25d9%2584%25d8%25b3-%25d9%2585%25d8%25ac%25d8%25a7%25d9%2586%25d8%25a7)
 - [حصريا: أفضل قالب بلوجر احترافي مجاني و بدون حقوق](https://www.faisal2n.com/2022/02/best-free-blogger-template-without-rights.html)
 - [قالب الرابط الآمن Safelink - أفضل قالب لتحويل وإختصار الروابط لمدونات بلوجر](https://www.faisal2n.com/2022/02/safelink-blogger-template.html)
 - [كيفية استخدام موقع Quora للحصول على أفكار محتوى جديد ومميز](https://www.md3bm.com/2022/02/how-to-use-quora-to-get-great-content-ideas.html)
 - [لماذا يجب عليك إستخدام SEMrush للتسويق لعلامتك التجارية ؟](https://www.md3bm.com/2022/02/why-should-use-semrush-for-your-business.html)
-- [كيفية إنشاء مستودع ملفات على GitHub واستخدامه لاستضافة ملفات موقعك](https://www.md3bm.com/2022/02/how-to-host-files-on-github.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
