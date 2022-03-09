@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل مواقع أجنبية ستدفع لك المال فورا مقابل كتابة المقالات &lpar;2022&rpar;](https://www.md3bm.com/2022/03/top-websites-to-make-money-by-writing.html)
 - [قالب جت ثيم v2.9 Jettheme - أفضل وأسرع قالب بلوجر مجاني على الإطلاق](https://www.faisal2n.com/2022/03/jettheme-blogger-template.html)
 - [طريقة تغيير خطوط قالب Median UI Template لمدونات بلوجر](https://www.faisal2n.com/2022/03/how-to-change-median-ui-template-fonts.html)
 - [احم خصوصيتك على الأندرويد باستخدام تطبيق Antistalker](https://www.arab-reviewer.com/%d8%a7%d8%ad%d9%85-%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%aa%d9%83-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af/?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a7%25d8%25ad%25d9%2585-%25d8%25ae%25d8%25b5%25d9%2588%25d8%25b5%25d9%258a%25d8%25aa%25d9%2583-%25d8%25b9%25d9%2584%25d9%2589-%25d8%25a7%25d9%2584%25d8%25a3%25d9%2586%25d8%25af%25d8%25b1%25d9%2588%25d9%258a%25d8%25af)
 - [أفضل البدائل لموقع أليكسا Alexa.com لترتيب المواقع الإلكترونية &lpar;2022&rpar;](https://www.md3bm.com/2022/03/best-alternatives-of-alexa-com.html)
-- [أفضل تطبيقات الأندرويد لتحرير الأكواد لعام 2022](https://www.arab-reviewer.com/best-code-editors-for-android/?utm_source=rss&utm_medium=rss&utm_campaign=best-code-editors-for-android)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
