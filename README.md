@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل مواقع إلكترونية عربية للعلوم والمعرفة والتعليم](https://www.md3bm.com/2022/03/best-arab-websites-for-science-and-knowledge.html)
 - [كيفية حماية مدونات بلوجر و ووردبرس ومنع سرقة المقالات ونسخ المحتوى](https://www.faisal2n.com/2022/03/how-to-protect-your-content-on-blogger.html)
 - [أفضل مواقع بث مباريات دوري أبطال أوروبا والدوريات الأوروبية مجانا وأونلاين](https://www.md3bm.com/2022/03/best-websites-to-watch-champions-league-online-free.html)
 - [أفضل مواقع أجنبية ستدفع لك المال فورا مقابل كتابة المقالات &lpar;2022&rpar;](https://www.md3bm.com/2022/03/top-websites-to-make-money-by-writing.html)
 - [قالب جت ثيم v2.9 Jettheme - أفضل وأسرع قالب بلوجر مجاني على الإطلاق](https://www.faisal2n.com/2022/03/jettheme-blogger-template.html)
-- [طريقة تغيير خطوط قالب Median UI Template لمدونات بلوجر](https://www.faisal2n.com/2022/03/how-to-change-median-ui-template-fonts.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
