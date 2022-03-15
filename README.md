@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل تطبيقات تعليمية للأطفال – تطبيقات للأطفال](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d8%a9-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a3%25d9%2581%25d8%25b6%25d9%2584-%25d8%25aa%25d8%25b7%25d8%25a8%25d9%258a%25d9%2582%25d8%25a7%25d8%25aa-%25d8%25aa%25d8%25b9%25d9%2584%25d9%258a%25d9%2585%25d9%258a%25d8%25a9-%25d9%2584%25d9%2584%25d8%25a3%25d8%25b7%25d9%2581%25d8%25a7%25d9%2584)
 - [أفضل مواقع إلكترونية عربية للعلوم والمعرفة والتعليم](https://www.md3bm.com/2022/03/best-arab-websites-for-science-and-knowledge.html)
 - [كيفية حماية مدونات بلوجر و ووردبرس ومنع سرقة المقالات ونسخ المحتوى](https://www.faisal2n.com/2022/03/how-to-protect-your-content-on-blogger.html)
 - [أفضل مواقع بث مباريات دوري أبطال أوروبا والدوريات الأوروبية مجانا وأونلاين](https://www.md3bm.com/2022/03/best-websites-to-watch-champions-league-online-free.html)
 - [أفضل مواقع أجنبية ستدفع لك المال فورا مقابل كتابة المقالات &lpar;2022&rpar;](https://www.md3bm.com/2022/03/top-websites-to-make-money-by-writing.html)
-- [قالب جت ثيم v2.9 Jettheme - أفضل وأسرع قالب بلوجر مجاني على الإطلاق](https://www.faisal2n.com/2022/03/jettheme-blogger-template.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
