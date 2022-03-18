@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [قالب جيت ثيم Jettheme - أفضل وأسرع قالب بلوجر مجاني](https://www.faisal2n.com/2022/03/jet-theme-blogger-template.html)
 - [كيفية منع سرقة المقالات ونسخ المحتوى في مدونات بلوجر و ووردبرس](https://www.faisal2n.com/2022/03/protect-your-content-on-blogger.html)
 - [10 أفكار ومشاريع لكسب المال وتحقيق الربح المادي لعام 2022](https://www.md3bm.com/2022/03/10-ideas-to-make-money.html)
 - [خمس نصائح لتصبح كاتب ومدون ناجح في 2022](https://www.md3bm.com/2022/03/5-tips-to-become-a-succeed-writer.html)
 - [أفضل تطبيقات تعليمية للأطفال – تطبيقات للأطفال](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d8%a9-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a3%25d9%2581%25d8%25b6%25d9%2584-%25d8%25aa%25d8%25b7%25d8%25a8%25d9%258a%25d9%2582%25d8%25a7%25d8%25aa-%25d8%25aa%25d8%25b9%25d9%2584%25d9%258a%25d9%2585%25d9%258a%25d8%25a9-%25d9%2584%25d9%2584%25d8%25a3%25d8%25b7%25d9%2581%25d8%25a7%25d9%2584)
-- [أفضل مواقع إلكترونية عربية للعلوم والمعرفة والتعليم](https://www.md3bm.com/2022/03/best-arab-websites-for-science-and-knowledge.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
