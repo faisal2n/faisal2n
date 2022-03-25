@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل أكواد وقوالب HTML و CSS و JS ومشاريع جاهزة على Codepen &lpar;الجزء الأول&rpar;](https://www.md3bm.com/2022/03/best-pens-and-projects-on-codepen.html)
 - [أفضل مواقع شراء قطع غيار السيارات 2022](https://www.md3bm.com/2022/03/best-website-to-buy-cars-parts.html)
 - [كيفية منع الروابط و إزالتها تلقائيا من تعليقات بلوجر أو فتحها في نافذة جديدة](https://www.faisal2n.com/2022/03/remove-links-in-blogger-comments.html)
 - [أفضل موقع لتحويل النص إلى كلام أو مقطع صوتي مجانا &lpar;Text to Speech&rpar;](https://www.md3bm.com/2022/03/best-text-to-speech-converter.html)
 - [أفضل مزودي شهادة الأمان SSL المجانية &lpar;2022&rpar;](https://www.arab-reviewer.com/top-free-ssl-providers/?utm_source=rss&utm_medium=rss&utm_campaign=top-free-ssl-providers)
-- [قالب جيت ثيم Jettheme - أفضل وأسرع قالب بلوجر مجاني](https://www.faisal2n.com/2022/03/jet-theme-blogger-template.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
