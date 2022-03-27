@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيف تصبح مطور ويب &lpar;Full Stack Web Developer&rpar; ؟](https://www.md3bm.com/2022/03/full-stack-web-developer.html)
 - [ما أهمية البرمجة؟ وما الفائدة من تعلّم لغات البرمجة؟](https://www.arab-reviewer.com/%d9%85%d8%a7-%d8%a3%d9%87%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9%d8%9f-%d9%88%d9%85%d8%a7-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d9%85%d9%86-%d8%aa%d8%b9%d9%84%d9%91%d9%85/?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2585%25d8%25a7-%25d8%25a3%25d9%2587%25d9%2585%25d9%258a%25d8%25a9-%25d8%25a7%25d9%2584%25d8%25a8%25d8%25b1%25d9%2585%25d8%25ac%25d8%25a9%25d8%259f-%25d9%2588%25d9%2585%25d8%25a7-%25d8%25a7%25d9%2584%25d9%2581%25d8%25a7%25d8%25a6%25d8%25af%25d8%25a9-%25d9%2585%25d9%2586-%25d8%25aa%25d8%25b9%25d9%2584%25d9%2591%25d9%2585)
 - [أفضل أكواد وقوالب HTML و CSS و JS ومشاريع جاهزة على Codepen &lpar;الجزء الأول&rpar;](https://www.md3bm.com/2022/03/best-pens-and-projects-on-codepen.html)
 - [أفضل مواقع شراء قطع غيار السيارات 2022](https://www.md3bm.com/2022/03/best-website-to-buy-cars-parts.html)
 - [كيفية منع الروابط و إزالتها تلقائيا من تعليقات بلوجر أو فتحها في نافذة جديدة](https://www.faisal2n.com/2022/03/remove-links-in-blogger-comments.html)
-- [أفضل موقع لتحويل النص إلى كلام أو مقطع صوتي مجانا &lpar;Text to Speech&rpar;](https://www.md3bm.com/2022/03/best-text-to-speech-converter.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
