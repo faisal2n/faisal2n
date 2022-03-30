@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل الأكواد والمشاريع HTML و CSS و JS الجاهزة على Codepen &lpar;الجزء الثاني&rpar;](https://www.md3bm.com/2022/03/best-pens-and-projects-on-codepen-p2.html)
 - [كيف تصبح مبرمج ناجح ومحترف – نصائح برمجية](https://www.arab-reviewer.com/%d9%83%d9%8a%d9%81-%d8%aa%d8%b5%d8%a8%d8%ad-%d9%85%d8%a8%d8%b1%d9%85%d8%ac-%d9%86%d8%a7%d8%ac%d8%ad/?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25b5%25d8%25a8%25d8%25ad-%25d9%2585%25d8%25a8%25d8%25b1%25d9%2585%25d8%25ac-%25d9%2586%25d8%25a7%25d8%25ac%25d8%25ad)
 - [أفضل المصادر والأدوات المجانية لتطوير الويب وتصميم المواقع](https://www.md3bm.com/2022/03/best-free-resources-and-tools-for-web-development.html)
 - [كيفية إضافة زر الإشتراك في قناة يوتيوب داخل موقعك أو مدونتك](https://www.faisal2n.com/2022/03/add-youtube-subscribe-box-in-website.html)
 - [كيف تصبح مطور ويب &lpar;Full Stack Web Developer&rpar; ؟](https://www.md3bm.com/2022/03/full-stack-web-developer.html)
-- [ما أهمية البرمجة؟ وما الفائدة من تعلّم لغات البرمجة؟](https://www.arab-reviewer.com/%d9%85%d8%a7-%d8%a3%d9%87%d9%85%d9%8a%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9%d8%9f-%d9%88%d9%85%d8%a7-%d8%a7%d9%84%d9%81%d8%a7%d8%a6%d8%af%d8%a9-%d9%85%d9%86-%d8%aa%d8%b9%d9%84%d9%91%d9%85/?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2585%25d8%25a7-%25d8%25a3%25d9%2587%25d9%2585%25d9%258a%25d8%25a9-%25d8%25a7%25d9%2584%25d8%25a8%25d8%25b1%25d9%2585%25d8%25ac%25d8%25a9%25d8%259f-%25d9%2588%25d9%2585%25d8%25a7-%25d8%25a7%25d9%2584%25d9%2581%25d8%25a7%25d8%25a6%25d8%25af%25d8%25a9-%25d9%2585%25d9%2586-%25d8%25aa%25d8%25b9%25d9%2584%25d9%2591%25d9%2585)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
