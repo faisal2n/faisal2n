@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل قوالب و واجهات مواقع ويب مجانية لعام 2022](https://www.md3bm.com/2022/04/best-free-website-templates-2022.html)
 - [أفضل الأدوات المجانية لإعادة صياغة النصوص والمقالات و إنشاء مقالات حصرية](https://www.md3bm.com/2022/04/best-article-spinning-tools.html)
 - [دورات مجانية في تطوير الويب و تصميم الواجهات الأمامية .. إلحق بسرعة](https://www.md3bm.com/2022/04/free-courses-in-web-development.html)
 - [العلامات الشرطية للعرض في بلوجر &lpar;data:view&rpar; -Blogger Conditional Tags](https://www.faisal2n.com/2022/04/data-view-tags-in-blogger.html)
 - [أفضل مواقع البحث عن رحلات الطيران بأرخص الأسعار لعام 2022](https://www.md3bm.com/2022/04/best-websites-for-flights-booking-at-cheapest-prices.html)
-- [أفضل تطبيقات قراءة القران الكريم &lpar;المصحف الشريف&rpar;](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%82%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85/?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a3%25d9%2581%25d8%25b6%25d9%2584-%25d8%25aa%25d8%25b7%25d8%25a8%25d9%258a%25d9%2582%25d8%25a7%25d8%25aa-%25d9%2582%25d8%25b1%25d8%25a7%25d8%25a1%25d8%25a9-%25d8%25a7%25d9%2584%25d9%2582%25d8%25b1%25d8%25a7%25d9%2586-%25d8%25a7%25d9%2584%25d9%2583%25d8%25b1%25d9%258a%25d9%2585)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
