@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [تحسين محركات البحث في خمس خطوات لبناء إستراتيحية ناجحة](https://www.arab-reviewer.com/5-steps-to-improve-your-seo/?utm_source=rss&utm_medium=rss&utm_campaign=5-steps-to-improve-your-seo)
 - [كيفية تحسين موقعك للحصول على ترتيب عالي في نتائج بحث جوجل](https://www.md3bm.com/2022/04/improve-your-website-for-seo.html)
 - [أفضل قوالب و واجهات مواقع ويب مجانية لعام 2022](https://www.md3bm.com/2022/04/best-free-website-templates-2022.html)
 - [أفضل الأدوات المجانية لإعادة صياغة النصوص والمقالات و إنشاء مقالات حصرية](https://www.md3bm.com/2022/04/best-article-spinning-tools.html)
 - [دورات مجانية في تطوير الويب و تصميم الواجهات الأمامية .. إلحق بسرعة](https://www.md3bm.com/2022/04/free-courses-in-web-development.html)
-- [العلامات الشرطية للعرض في بلوجر &lpar;data:view&rpar; -Blogger Conditional Tags](https://www.faisal2n.com/2022/04/data-view-tags-in-blogger.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
