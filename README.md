@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية تحسين موقعك للحصول على ترتيب عالي في نتائج بحث جوجل](https://www.md3bm.com/2022/04/improve-your-website-for-seo.html)
 - [أفضل قوالب و واجهات مواقع ويب مجانية لعام 2022](https://www.md3bm.com/2022/04/best-free-website-templates-2022.html)
 - [أفضل الأدوات المجانية لإعادة صياغة النصوص والمقالات و إنشاء مقالات حصرية](https://www.md3bm.com/2022/04/best-article-spinning-tools.html)
 - [دورات مجانية في تطوير الويب و تصميم الواجهات الأمامية .. إلحق بسرعة](https://www.md3bm.com/2022/04/free-courses-in-web-development.html)
 - [العلامات الشرطية للعرض في بلوجر &lpar;data:view&rpar; -Blogger Conditional Tags](https://www.faisal2n.com/2022/04/data-view-tags-in-blogger.html)
-- [أفضل مواقع البحث عن رحلات الطيران بأرخص الأسعار لعام 2022](https://www.md3bm.com/2022/04/best-websites-for-flights-booking-at-cheapest-prices.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
