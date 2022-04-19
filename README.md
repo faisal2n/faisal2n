@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيف تكسب المال من خلال اختبار المواقع والتطبيقات؟ اكسب 100 دولار في اليوم](https://www.md3bm.com/2022/04/make-money-by-testing-websites.html)
 - [أهمية الفيديو في تحسين موقعك لمحركات البحث وتصدر نتائج البحث](https://www.md3bm.com/2022/04/using-video-and-images-to-improve-seo-ranking.html)
 - [أفضل المواقع لتنزيل الفيديوهات من فيس بوك أونلاين](https://www.md3bm.com/2022/04/best-facebook-video-downloaders.html)
 - [تحسين متجر التطبيقات &lpar;ASO&rpar;: نصائح لتحسين ظهور تطبيقك في متجر التطبيقات](https://www.md3bm.com/2022/04/aso-tips-to-market-your-app-in-apps-store.html)
 - [تحسين محركات البحث في خمس خطوات لبناء إستراتيحية ناجحة](https://www.arab-reviewer.com/5-steps-to-improve-your-seo/?utm_source=rss&utm_medium=rss&utm_campaign=5-steps-to-improve-your-seo)
-- [كيفية تحسين موقعك للحصول على ترتيب عالي في نتائج بحث جوجل](https://www.md3bm.com/2022/04/improve-your-website-for-seo.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
