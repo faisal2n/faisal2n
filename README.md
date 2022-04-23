@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أهم مجالات واتجاهات تطوير الويب وتصميم المواقع المستقبلية](https://www.md3bm.com/2022/04/top-future-trends-of-web-development.html)
 - [اختبار الويب Web Testing - ماهو ولم؟ وكيف يتم اختبار مواقع الويب؟](https://www.md3bm.com/2022/04/web-testing.html)
 - [كيف تكسب 100 دولار في اليوم من خلال اختبار المواقع والتطبيقات؟](https://www.md3bm.com/2022/04/make-money-by-testing-websites.html)
 - [أهمية الفيديو في تحسين موقعك لمحركات البحث وتصدر نتائج البحث](https://www.md3bm.com/2022/04/using-video-and-images-to-improve-seo-ranking.html)
 - [أفضل المواقع لتنزيل الفيديوهات من فيس بوك أونلاين](https://www.md3bm.com/2022/04/best-facebook-video-downloaders.html)
-- [تحسين متجر التطبيقات &lpar;ASO&rpar;: نصائح لتحسين ظهور تطبيقك في متجر التطبيقات](https://www.md3bm.com/2022/04/aso-tips-to-market-your-app-in-apps-store.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
