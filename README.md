@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية تعديل و إعادة تسمية التصنيفات في مدونات بلوجر &lpar;BlogSpot&rpar;](https://www.faisal2n.com/2022/04/how-to-rename-labels-in-blogger.html)
 - [ما هي صفحات الجوال المسرعة &lpar;AMP&rpar;؟ وما أهميتها؟](https://www.arab-reviewer.com/what-is-amp/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-amp)
 - [أهم مجالات واتجاهات تطوير الويب وتصميم المواقع المستقبلية](https://www.md3bm.com/2022/04/top-future-trends-of-web-development.html)
 - [اختبار الويب Web Testing - ماهو ولم؟ وكيف يتم اختبار مواقع الويب؟](https://www.md3bm.com/2022/04/web-testing.html)
 - [كيف تكسب 100 دولار في اليوم من خلال اختبار المواقع والتطبيقات؟](https://www.md3bm.com/2022/04/make-money-by-testing-websites.html)
-- [أهمية الفيديو في تحسين موقعك لمحركات البحث وتصدر نتائج البحث](https://www.md3bm.com/2022/04/using-video-and-images-to-improve-seo-ranking.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
