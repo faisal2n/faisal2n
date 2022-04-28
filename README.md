@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [لماذا يجب أن تبدأ بإنشاء قناة يوتيوب &lpar;مجهول الهوية&rpar; في 2022](https://www.md3bm.com/2022/04/why-should-start-a-faceless-youtube-channel.html)
 - [الكلمات المفتاحية وتصدر نتائج البحث](https://www.arab-reviewer.com/%d8%a7%d9%84%d9%83%d9%84%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d8%a7%d8%ad%d9%8a%d8%a9-%d9%88%d8%aa%d8%b5%d8%af%d8%b1-%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab/?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a7%25d9%2584%25d9%2583%25d9%2584%25d9%2585%25d8%25a7%25d8%25aa-%25d8%25a7%25d9%2584%25d9%2585%25d9%2581%25d8%25aa%25d8%25a7%25d8%25ad%25d9%258a%25d8%25a9-%25d9%2588%25d8%25aa%25d8%25b5%25d8%25af%25d8%25b1-%25d9%2586%25d8%25aa%25d8%25a7%25d8%25a6%25d8%25ac-%25d8%25a7%25d9%2584%25d8%25a8%25d8%25ad%25d8%25ab)
 - [كيفية تعديل و إعادة تسمية التصنيفات في مدونات بلوجر &lpar;BlogSpot&rpar;](https://www.faisal2n.com/2022/04/how-to-rename-labels-in-blogger.html)
 - [ما هي صفحات الجوال المسرعة &lpar;AMP&rpar;؟ وما أهميتها؟](https://www.arab-reviewer.com/what-is-amp/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-amp)
 - [أهم مجالات واتجاهات تطوير الويب وتصميم المواقع المستقبلية](https://www.md3bm.com/2022/04/top-future-trends-of-web-development.html)
-- [اختبار الويب Web Testing - ماهو ولم؟ وكيف يتم اختبار مواقع الويب؟](https://www.md3bm.com/2022/04/web-testing.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
