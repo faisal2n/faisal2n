@@ -25,9 +25,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [شرح نقل الواتساب و الواتساب التجاري بين الايفون و الاندرويد والكمبيوتر](https://www.arab-reviewer.com/%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d9%8a%d9%81%d9%88%d9%86-%d9%88-%d8%a7%d9%84%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-%d9%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d9%2584%25d9%2588%25d8%25a7%25d8%25aa%25d8%25b3%25d8%25a7%25d8%25a8-%25d8%25a8%25d9%258a%25d9%2586-%25d8%25a7%25d9%2584%25d8%25a7%25d9%258a%25d9%2581%25d9%2588%25d9%2586-%25d9%2588-%25d8%25a7%25d9%2584%25d8%25a7%25d9%2586%25d8%25af%25d8%25b1%25d9%2588%25d9%258a%25d8%25af-%25d9%2588)
+- [شرح نقل الواتساب و الواتساب التجاري بين الايفون و الاندرويد والكمبيوتر](https://www.arab-reviewer.com/%d9%86%d9%82%d9%84-%d8%a7%d9%84%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d9%8a%d9%81%d9%88%d9%86-%d9%88-%d8%a7%d9%84%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-%d9%88/)
 - [كيفية توثيق حسابك على انستغرام Instagram - توثيق حسابات انستغرام](https://www.md3bm.com/2022/05/how-to-get-verified-on-instagram.html)
-- [مميزات التعلم عبر الإنترنت &lpar;عن بعد&rpar; التعلم من المنزل](https://www.arab-reviewer.com/%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/?utm_source=rss&utm_medium=rss&utm_campaign=%25d9%2585%25d8%25b2%25d8%25a7%25d9%258a%25d8%25a7-%25d8%25a7%25d9%2584%25d8%25aa%25d8%25b9%25d9%2584%25d9%2585-%25d8%25b9%25d8%25a8%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a5%25d9%2586%25d8%25aa%25d8%25b1%25d9%2586%25d8%25aa)
+- [مميزات التعلم عبر الإنترنت &lpar;عن بعد&rpar; التعلم من المنزل](https://www.arab-reviewer.com/%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa/)
 - [4 خطوات لجعل دروسك ودوراتك التعليمية عبر الإنترنت أكثر جاذبية](https://www.md3bm.com/2022/04/4-ways-to-make-elearning-courses-more-engaging.html)
 - [لماذا يجب أن تبدأ بإنشاء قناة يوتيوب &lpar;مجهول الهوية&rpar; في 2022](https://www.md3bm.com/2022/04/why-should-start-a-faceless-youtube-channel.html)
 <!-- BLOG-POST-LIST:END -->
