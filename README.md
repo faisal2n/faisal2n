@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية اختيار اسم نطاق أو دومين لمدونتك أو موقعك وتسجيله باسمك](https://www.arab-reviewer.com/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d8%a7%d8%b3%d9%85-%d9%86%d8%b7%d8%a7%d9%82-%d9%84%d9%85%d8%af%d9%88%d9%86%d8%aa%d9%83/)
 - [أفضل أدوات مجانية لعزل الأصوات واستخراج الموسيقى من الأغاني أون لاين](https://www.md3bm.com/2022/05/best-online-vocal-removers-and-music-extractors.html)
 - [هل جولدن واي Goldenway.world شركة موثوقة أم إحتيالية؟](https://www.md3bm.com/2022/05/goldenway-world-review.html)
 - [حلول مشاكل متجر جوجل Google Play](https://www.arab-reviewer.com/%d8%ad%d9%84%d9%88%d9%84-%d9%85%d8%b4%d8%a7%d9%83%d9%84-%d9%85%d8%aa%d8%ac%d8%b1-%d8%ac%d9%88%d8%ac%d9%84-google-play/)
 - [تدرّب على التصوير الرقمي و إعدادات الكاميرات الإحترافية أونلاين](https://www.md3bm.com/2022/05/camera-sim.html)
-- [نتائج القرعة الأمريكية : معرفة نتيجة قرعة الهجرة الأمريكية](https://www.md3bm.com/2022/05/usa-dv-2023-applicants-results.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
