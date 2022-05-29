@@ -28,8 +28,8 @@
 - [سلوانا دايموند Silwana Diamond : هل هي شركة موثوقة أم احتيالية؟](https://www.md3bm.com/2022/05/silwana-diamond.html)
 - [أفضل مصادر Tailwind CSS لتصميم الواجهات الأمامية](https://www.md3bm.com/2022/05/best-tailwindcss-resources.html)
 - [أفضل بودكاست مفيدة في تطوير الويب وتعلم البرمجة](https://www.md3bm.com/2022/05/top-podcast-for-web-development.html)
-- [أفضل المواقع الإلكترونية والأدوات المفيدة على الإنترنت &lpar;الجزء الثالث&rpar;](https://www.md3bm.com/2022/05/top-useful-websites-part3.html)
-- [أفضل مصادر الصور و مقاطع الفيديو المجانية للمصممين ومطوري الويب](https://www.md3bm.com/2022/05/best-websites-for-free-photos-and-videos.html)
+- [كيف يساعد بوتستراب Bootstrap في تسريع تطوير الويب](https://www.arab-reviewer.com/how-bootstrap-helps-to-accelerate-the-web-development/)
+- [9 نصائح بسيطة لكتابة وصف منتج مميز وفريد لزيادة المبيعات](https://www.arab-reviewer.com/9-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d8%a8%d8%b3%d9%8a%d8%b7%d8%a9-%d9%84%d9%83%d8%aa%d8%a7%d8%a8%d8%a9-%d9%88%d8%b5%d9%81-%d9%85%d9%86%d8%aa%d8%ac-%d9%85%d9%85%d9%8a%d8%b2-%d9%88%d9%81%d8%b1%d9%8a%d8%af/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
