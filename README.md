@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [قائمة إيميلات خليجية وعربية تضم أكثر من 100 ألف إيميل فعال](https://www.faisal2n.com/2022/05/arab-mailing-list.html)
 - [أضخم قائمة إيميلات عربية وأجنبية للتسويق الإلكتروني](https://www.faisal2n.com/2022/05/top-free-mailing-list.html)
 - [سلوانا دايموند Silwana Diamond : هل هي شركة موثوقة أم احتيالية؟](https://www.md3bm.com/2022/05/silwana-diamond.html)
 - [أفضل مصادر Tailwind CSS لتصميم الواجهات الأمامية](https://www.md3bm.com/2022/05/best-tailwindcss-resources.html)
 - [أفضل بودكاست مفيدة في تطوير الويب وتعلم البرمجة](https://www.md3bm.com/2022/05/top-podcast-for-web-development.html)
-- [كيف يساعد بوتستراب Bootstrap في تسريع تطوير الويب](https://www.arab-reviewer.com/how-bootstrap-helps-to-accelerate-the-web-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
