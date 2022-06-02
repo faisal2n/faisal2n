@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [دورات و كورسات مجانية في البرمجة وتطوير الويب على Udemy](https://www.md3bm.com/2022/06/free-courses-in-programming-on-udemy.html)
 - [أفضل 10 تطبيقات – التطبيقات الأسرع نموا ونجاحا في 2022](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-10-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-2022/)
 - [قائمة إيميلات خليجية وعربية تضم أكثر من 100 ألف إيميل فعال](https://www.faisal2n.com/2022/05/arab-mailing-list.html)
 - [أضخم قائمة إيميلات عربية وأجنبية للتسويق الإلكتروني](https://www.faisal2n.com/2022/05/top-free-mailing-list.html)
 - [سلوانا دايموند Silwana Diamond : هل هي شركة موثوقة أم احتيالية؟](https://www.md3bm.com/2022/05/silwana-diamond.html)
-- [أفضل مصادر Tailwind CSS لتصميم الواجهات الأمامية](https://www.md3bm.com/2022/05/best-tailwindcss-resources.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
