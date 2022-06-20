@@ -29,7 +29,7 @@
 - [القائمة الشاملة لأفضل 111 موقع ويب وأداة مفيدة على الإنترنت](https://www.md3bm.com/2022/06/most-useful-websites-on-internet.html)
 - [المهارات الأساسية التي تحتاجها لتصبح مطور ويب &lpar;واجهات أمامية&rpar;](https://www.md3bm.com/2022/06/essential-skills-to-be-a-front-end-developer.html)
 - [دورات و كورسات مجانية في البرمجة وتطوير الويب على Udemy](https://www.md3bm.com/2022/06/free-courses-in-programming-on-udemy.html)
-- [قائمة إيميلات خليجية وعربية تضم أكثر من 100 ألف إيميل فعال](https://www.faisal2n.com/2022/05/arab-mailing-list.html)
+- [أفضل 10 تطبيقات – التطبيقات الأسرع نموا ونجاحا في 2022](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-10-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
