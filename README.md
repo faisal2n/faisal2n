@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية تضمين فيديو يوتيوب في صفحة ويب مع خاصية Lazyload و عرض متجاوب](https://www.md3bm.com/2022/06/embed-a-youtube-video-with-lazy-load.html)
 - [أفضل مواقع العمل المستقل أو الحُر المتخصصة لعام 2022](https://www.md3bm.com/2022/06/best-freelancing-websites.html)
 - [القائمة الشاملة لأفضل 111 موقع ويب وأداة مفيدة على الإنترنت](https://www.md3bm.com/2022/06/most-useful-websites-on-internet.html)
 - [المهارات الأساسية التي تحتاجها لتصبح مطور ويب &lpar;واجهات أمامية&rpar;](https://www.md3bm.com/2022/06/essential-skills-to-be-a-front-end-developer.html)
 - [دورات و كورسات مجانية في البرمجة وتطوير الويب على Udemy](https://www.md3bm.com/2022/06/free-courses-in-programming-on-udemy.html)
-- [أفضل 10 تطبيقات – التطبيقات الأسرع نموا ونجاحا في 2022](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-10-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%81%d9%8a-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
