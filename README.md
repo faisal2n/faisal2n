@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية تحرير و إنشاء فيديوهات إحترفية أونلاين وبدون برامج](https://www.arab-reviewer.com/%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%81%d9%8a%d8%af%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d8%a5%d8%ad%d8%aa%d8%b1%d9%81%d9%8a%d8%a9-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a/)
 - [كيفية تضمين فيديو يوتيوب في صفحة ويب مع خاصية Lazyload و عرض متجاوب](https://www.md3bm.com/2022/06/embed-a-youtube-video-with-lazy-load.html)
 - [أفضل مواقع العمل المستقل أو الحُر المتخصصة لعام 2022](https://www.md3bm.com/2022/06/best-freelancing-websites.html)
 - [القائمة الشاملة لأفضل 111 موقع ويب وأداة مفيدة على الإنترنت](https://www.md3bm.com/2022/06/most-useful-websites-on-internet.html)
 - [المهارات الأساسية التي تحتاجها لتصبح مطور ويب &lpar;واجهات أمامية&rpar;](https://www.md3bm.com/2022/06/essential-skills-to-be-a-front-end-developer.html)
-- [دورات و كورسات مجانية في البرمجة وتطوير الويب على Udemy](https://www.md3bm.com/2022/06/free-courses-in-programming-on-udemy.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
