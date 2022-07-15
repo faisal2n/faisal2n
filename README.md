@@ -28,8 +28,8 @@
 - [موقع إلكتروني رائع لمعرفة كيفية صيانة وإصلاح السيارات](https://www.md3bm.com/2022/07/how-to-repair-your-cars.html)
 - [أفضل المواقع لممارسة البرمجة المتقدمة والتحديات البرمجية](https://www.md3bm.com/2022/07/best-websites-to-practice-programming.html)
 - [كيفية إعداد مدونة بلوجر على نطاق فرعي &lpar;دومين فرعي&rpar; مخصص](https://www.md3bm.com/2022/06/set-up-custom-subdomain-on-blogger.html)
+- [كيفية تحرير و إنشاء فيديوهات إحترفية أونلاين وبدون برامج](https://www.arab-reviewer.com/%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d9%88-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%81%d9%8a%d8%af%d9%8a%d9%88%d9%87%d8%a7%d8%aa-%d8%a5%d8%ad%d8%aa%d8%b1%d9%81%d9%8a%d8%a9-%d8%a3%d9%88%d9%86%d9%84%d8%a7%d9%8a/)
 - [كيفية تضمين فيديو يوتيوب في صفحة ويب مع خاصية Lazyload و عرض متجاوب](https://www.md3bm.com/2022/06/embed-a-youtube-video-with-lazy-load.html)
-- [أفضل مواقع العمل المستقل أو الحُر المتخصصة لعام 2022](https://www.md3bm.com/2022/06/best-freelancing-websites.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
