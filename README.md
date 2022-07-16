@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [مقاسات تصاميم صور و إعلانات مواقع التواصل الإجتماعي &lpar;السوشيال ميديا&rpar;](https://www.md3bm.com/2022/07/social-media-images-sizes.html)
 - [تخصيص مربع موافقة ملفات تعريف الإرتباط &lpar;الكوكيز&rpar; في مدونات بلوجر](https://www.faisal2n.com/2022/07/customize-cookie-consent-in-blogger.html)
 - [مواقع منصة gramfree لكسب الأموال كـ gramfree.net هي مواقع إحتيالية](https://www.md3bm.com/2022/07/gramfree-website-is-scam.html)
 - [موقع إلكتروني رائع لمعرفة كيفية صيانة وإصلاح السيارات](https://www.md3bm.com/2022/07/how-to-repair-your-cars.html)
 - [أفضل المواقع لممارسة البرمجة المتقدمة والتحديات البرمجية](https://www.md3bm.com/2022/07/best-websites-to-practice-programming.html)
-- [كيفية إعداد مدونة بلوجر على نطاق فرعي &lpar;دومين فرعي&rpar; مخصص](https://www.md3bm.com/2022/06/set-up-custom-subdomain-on-blogger.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
