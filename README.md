@@ -28,8 +28,8 @@
 - [التصيّد الإحتيالي - Phishing : دليلك لحماية نفسك على الإنترنت](https://www.md3bm.com/2022/07/protect-yourself-from-phishing.html)
 - [نصائح لتحسين منشورات مدونتك لمحركات البحث](https://www.md3bm.com/2022/07/optimizing-your-blog-posts-for-search-engines.html)
 - [عشر طرق للترويج لمقالاتك ومدونتك وجلب الزوار والقراء إليها](https://www.md3bm.com/2022/07/10-ways-to-share-your-blog-online.html)
+- [أفضل منصات التسويق بالفيديو لعام 2022م](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d9%86%d8%b5%d8%a7%d8%aa-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d9%84%d8%b9%d8%a7%d9%85-2022%d9%85/)
 - [أفضل قنوات التواصل الاجتماعي للأعمال والعلامات التجارية](https://www.md3bm.com/2022/07/best-social-media-channels-for-business.html)
-- [مقاسات تصاميم صور و إعلانات مواقع التواصل الإجتماعي &lpar;السوشيال ميديا&rpar;](https://www.md3bm.com/2022/07/social-media-images-sizes.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
