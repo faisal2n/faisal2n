@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أهم عشر مهارات مطلوبة في العمل الحر &lpar;العمل المستقل&rpar;](https://www.arab-reviewer.com/%d8%a3%d9%87%d9%85-%d8%b9%d8%b4%d8%b1-%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d8%b7%d9%84%d9%88%d8%a8%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%ad%d8%b1/)
 - [كيفية تحسين المصادر الرئيسية لجلب الزوار وحركة المرور لمواقع الويب](https://www.md3bm.com/2022/08/how-to-maximize-the-website-traffic-sources.html)
 - [التصنيفات &lpar;Categories&rpar; في الووردبرس : أهميتها وكيفية استخدامها](https://www.arab-reviewer.com/categories-in-wordpress/)
 - [التصيّد الإحتيالي - Phishing : دليلك لحماية نفسك على الإنترنت](https://www.md3bm.com/2022/07/protect-yourself-from-phishing.html)
 - [نصائح لتحسين منشورات مدونتك لمحركات البحث](https://www.md3bm.com/2022/07/optimizing-your-blog-posts-for-search-engines.html)
-- [عشر طرق للترويج لمقالاتك ومدونتك وجلب الزوار والقراء إليها](https://www.md3bm.com/2022/07/10-ways-to-share-your-blog-online.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
