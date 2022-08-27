@@ -27,9 +27,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [كيفية إصلاح مشكلة نموذج الإتصال في مدونات بلوحر](https://www.faisal2n.com/2022/08/how-to-fix-default-contact-form-in-blogger.html)
 - [كيفية تحويل الصور إلى ملفات إكسل &lpar;Image to Excel sheet online&rpar;](https://www.md3bm.com/2022/08/how-to-convert-images-to-excel-sheets-online.html)
+- [أفضل 15 وظيفة للعمل الحر والمستقل](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-15-%d9%88%d8%b8%d9%8a%d9%81%d8%a9-%d9%84%d9%84%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%ad%d8%b1/)
 - [أفضل البدائل لباي بال PayPal لإستلام الأموال عبر الإنترنت](https://www.md3bm.com/2022/08/best-paypal-alternatives.html)
-- [كيفية تحسين المصادر الرئيسية لجلب الزوار وحركة المرور لمواقع الويب](https://www.md3bm.com/2022/08/how-to-maximize-the-website-traffic-sources.html)
-- [التصيّد الإحتيالي - Phishing : دليلك لحماية نفسك على الإنترنت](https://www.md3bm.com/2022/07/protect-yourself-from-phishing.html)
+- [أعلى عشر وظائف هندسية أجرا وطلبا في السوق](https://www.arab-reviewer.com/highest-paying-engineering-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
