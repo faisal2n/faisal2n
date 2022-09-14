@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [عوامل تصنيف جوجل لمواقع الويب على مستوى النطاق &quot;الدومين&quot;](https://www.md3bm.com/2022/09/domain-ranking-factors.html)
 - [أفضل أدوات إنشاء الصفحات على الووردبرس](https://www.arab-reviewer.com/best-wordpress-page-builders/)
 - [أفضل الأكواد والمشاريع HTML و CSS و JS الجاهزة على Codepen &lpar;الجزء الثالث&rpar;](https://www.md3bm.com/2022/09/best-pens-and-projects-on-codepen-p3.html)
 - [أفضل تطبيقات مفيدة ستجعل حياتك أسهل وأكثر إنتاجية](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%85%d9%81%d9%8a%d8%af%d8%a9/)
 - [أهم المصادر المجانية التي أستخدمها لتعلم البرمجة وتطوير الويب](https://www.md3bm.com/2022/08/top-resources-i-use-as-a-self-taught-web-developer.html)
-- [كيفية إصلاح مشكلة نموذج الإتصال في مدونات بلوحر](https://www.faisal2n.com/2022/08/how-to-fix-default-contact-form-in-blogger.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
