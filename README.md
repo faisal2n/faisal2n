@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ما هو Link Juice أو عصير الروابط ؟ وما أهميته في التسويق الرقمي؟](https://www.md3bm.com/2022/09/everything-about-link-juice.html)
 - [كيفية إزالة خلفية الصور أونلاين | أفضل مواقع إزالة خلفية الصور](https://www.md3bm.com/2022/09/best-image-background-removals.html)
 - [أفضل ملف robots.txt مخصص لمدونات بلوجر لتسريع الأرشفة على جوجل](https://www.faisal2n.com/2022/09/custom-robots-file-in-blogger.html)
 - [تحديث هام من جوجل لصناع المحتوى والمدونين: تحديث &quot;المحتوى المفيد&quot;](https://www.md3bm.com/2022/09/helpful-content-update-from-google.html)
 - [كيفية استخدام النطاقات القديمة لتحسين محركات البحث &lpar;دليل شامل&rpar;](https://www.md3bm.com/2022/09/using-old-domains-for-seo.html)
-- [عوامل تصنيف جوجل لمواقع الويب على مستوى النطاق &quot;الدومين&quot;](https://www.md3bm.com/2022/09/domain-ranking-factors.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
