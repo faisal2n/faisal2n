@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل أدوات مجانية لتحسين محركات البحث والتسويق الرقمي](https://www.md3bm.com/2022/10/top-free-seo-tools.html)
 - [جوجل تضيف خيارات جديدة لنظام إعلانات جوجل Google Ads](https://www.md3bm.com/2022/10/new-updates-on-google-ads.html)
 - [8 استراتيجيات فعالة لبناء روابط خلفية قوية لمواقع الويب](https://www.md3bm.com/2022/09/8-effective-strategies-for-backlinks-building.html)
 - [ما هو Link Juice أو عصير الروابط ؟ وما أهميته في التسويق الرقمي؟](https://www.md3bm.com/2022/09/everything-about-link-juice.html)
 - [كيفية إزالة خلفية الصور أونلاين | أفضل مواقع إزالة خلفية الصور](https://www.md3bm.com/2022/09/best-image-background-removals.html)
-- [أفضل ملف robots.txt مخصص لمدونات بلوجر لتسريع الأرشفة على جوجل](https://www.faisal2n.com/2022/09/custom-robots-file-in-blogger.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
