@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل أنواع المحتوى الرقمي لجلب و بناء الروابط الخلفية &lpar;هام جدا&rpar;](https://www.md3bm.com/2022/10/best-content-types-to-attract-backlinks.html)
 - [أفضل أدوات مجانية لتحسين محركات البحث والتسويق الرقمي](https://www.md3bm.com/2022/10/top-free-seo-tools.html)
 - [جوجل تضيف خيارات جديدة لنظام إعلانات جوجل Google Ads](https://www.md3bm.com/2022/10/new-updates-on-google-ads.html)
 - [8 استراتيجيات فعالة لبناء روابط خلفية قوية لمواقع الويب](https://www.md3bm.com/2022/09/8-effective-strategies-for-backlinks-building.html)
 - [ما هو Link Juice أو عصير الروابط ؟ وما أهميته في التسويق الرقمي؟](https://www.md3bm.com/2022/09/everything-about-link-juice.html)
-- [كيفية إزالة خلفية الصور أونلاين | أفضل مواقع إزالة خلفية الصور](https://www.md3bm.com/2022/09/best-image-background-removals.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
