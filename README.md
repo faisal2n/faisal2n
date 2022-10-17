@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [أفضل عشرة كتب لو قرأتها ستغير حياتك للأفضل](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%b9%d8%b4%d8%b1%d8%a9-%d9%83%d8%aa%d8%a8-%d9%84%d9%88-%d9%82%d8%b1%d8%a3%d8%aa%d9%87%d8%a7-%d8%b3%d8%aa%d8%ba%d9%8a%d8%b1-%d8%ad%d9%8a%d8%a7%d8%aa%d9%83-%d9%84%d9%84%d8%a3/)
+- [أفضل عشرة كتب لو قرأتها ستغير حياتك للأفضل](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%b9%d8%b4%d8%b1%d8%a9-%d9%83%d8%aa%d8%a8/)
 - [كيفية تنزيل فيديوهات فيسبوك ريلز facebook reels أونلاين](https://www.md3bm.com/2022/10/how-to-download-facebook-reels.html)
 - [أفضل أنواع المحتوى الرقمي لجلب و بناء الروابط الخلفية &lpar;هام جدا&rpar;](https://www.md3bm.com/2022/10/best-content-types-to-attract-backlinks.html)
 - [أفضل أدوات مجانية لتحسين محركات البحث والتسويق الرقمي](https://www.md3bm.com/2022/10/top-free-seo-tools.html)
