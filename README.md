@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [التجارة الإلكترونية : ما هو B2B و B2C و C2C و C2B ؟ وما الفرق بينهم؟](https://www.arab-reviewer.com/%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-b2b-%d9%88-b2c/)
 - [مواقع وأدوات مجانية يجب على المدونين وصناع المحتوى معرفتها](https://www.md3bm.com/2022/10/top-useful-tools-for-content-creators.html)
 - [هل الرموز التعبيرية Emojis مفيدة في تحسين محركات البحث؟ 🤔 &lpar;مهم جدا&rpar;](https://www.md3bm.com/2022/10/emojis-for-seo.html)
-- [أفضل عشرة كتب لو قرأتها ستغير حياتك للأفضل](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-%d8%b9%d8%b4%d8%b1%d8%a9-%d9%83%d8%aa%d8%a8/)
 - [كيفية تنزيل فيديوهات فيسبوك ريلز facebook reels أونلاين](https://www.md3bm.com/2022/10/how-to-download-facebook-reels.html)
+- [أفضل أنواع المحتوى الرقمي لجلب و بناء الروابط الخلفية &lpar;هام جدا&rpar;](https://www.md3bm.com/2022/10/best-content-types-to-attract-backlinks.html)
+- [أفضل أدوات مجانية لتحسين محركات البحث والتسويق الرقمي](https://www.md3bm.com/2022/10/top-free-seo-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
