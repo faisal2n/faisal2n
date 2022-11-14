@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل الأكواد HTML و CSS و JS الجاهزة على موقع Codepen &lpar;الجزء الرابع&rpar;](https://www.md3bm.com/2022/11/best-pens-and-projects-on-codepen-p4.html)
 - [أفضل تطبيقات مشاهدة مباريات كأس العالم والقنوات الرياضية المشفرة مجانا](https://www.arab-reviewer.com/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%85%d8%ac%d8%a7%d9%86%d8%a7/)
 - [معدل الارتداد Bounce Rate - تحسين تفاعل المستخدم مع موقعك](https://www.md3bm.com/2022/11/bounce-rate.html)
 - [إعدادات قالب جت ثيم JetTheme وكيفية تخصيصه - أفضل قالب بلوجر](https://www.faisal2n.com/2022/10/jettheme-setting.html)
 - [التجارة الإلكترونية : ما هو B2B و B2C و C2C و C2B ؟ وما الفرق بينهم؟](https://www.arab-reviewer.com/%d8%a3%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-b2b-%d9%88-b2c/)
-- [مواقع وأدوات مجانية يجب على المدونين وصناع المحتوى معرفتها](https://www.md3bm.com/2022/10/top-useful-tools-for-content-creators.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
