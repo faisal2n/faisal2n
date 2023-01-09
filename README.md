@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [برامج و أدوات مجانية لإنشاء وتحرير الفيديو والصوتيات والصور](https://www.arab-reviewer.com/%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d9%88-%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d8%a9-%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d9%88%d8%a7/)
 - [أفضل مواقع ومصادر الإلهام في تصميم الويب والواجهات الأمامية](https://www.md3bm.com/2022/12/top-websites-to-find-web-design-inspiration.html)
-- [كيف يمكنك مراسلة نفسك على الواتساب WhatsApp؟ ولماذا؟](https://www.arab-reviewer.com/%d9%83%d9%8a%d9%81-%d8%aa%d8%b1%d8%b3%d9%84-%d9%84%d9%86%d9%81%d8%b3%d9%83-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8/)
 - [عشرة أسباب لأهمية التسويق على وسائل التواصل الاجتماعي](https://www.md3bm.com/2022/12/importance-of-marketing-on-social-media.html)
-- [تعطل الواي فاي : الأسباب والحلول – حل مشكلة تعطل Wi-Fi في اللابتوب](https://www.arab-reviewer.com/%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8-%d8%aa%d8%b9%d8%b7%d9%84-%d8%a7%d9%84%d9%88%d8%a7%d9%8a-%d9%81%d8%a7%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1/)
+- [كيفية تضمين فيديو YouTube Shorts على صفحة ويب أو مدونة](https://www.md3bm.com/2022/12/how-to-embed-youtube-shorts-on-webpages.html)
+- [أنواع مواقع الويب: أهمية تحديد غرض موقع الويب في التسويق الرقمي](https://www.md3bm.com/2022/11/websites-types-and-purpose.html)
+- [أفضل موقع لزيادة عدد المتابعين والتفاعلات على يوتيوب وتويتر و إنستغرام](https://www.faisal2n.com/2022/11/how-to-gain-followers.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
