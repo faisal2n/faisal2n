@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل مواقع بديلة لـ Omegle الدردشة مع آخرين من مختلف دول العالم](https://www.md3bm.com/2023/01/best-omegle-alternatives-to-chat-with-strangers.html)
 - [13 نصيحة لإطالة عمر الكمبيوتر المحمول &lpar;اللابتوب&rpar;](https://www.arab-reviewer.com/13-%d9%86%d8%b5%d9%8a%d8%ad%d8%a9-%d9%84%d8%a5%d8%b7%d8%a7%d9%84%d8%a9-%d8%b9%d9%85%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%84/)
 - [أفضل مواقع تحويل الصور إلى نصوص | استخراج النصوص من الصور مجانا](https://www.md3bm.com/2023/01/best-free-online-ocr-tools.html)
 - [برامج و أدوات مجانية لإنشاء وتحرير الفيديو والصوتيات والصور](https://www.arab-reviewer.com/%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d9%88-%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d8%a9-%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d9%88%d8%a7/)
 - [أفضل مواقع ومصادر الإلهام في تصميم الويب والواجهات الأمامية](https://www.md3bm.com/2022/12/top-websites-to-find-web-design-inspiration.html)
-- [كيف يمكنك مراسلة نفسك على الواتساب WhatsApp؟ ولماذا؟](https://www.arab-reviewer.com/%d9%83%d9%8a%d9%81-%d8%aa%d8%b1%d8%b3%d9%84-%d9%84%d9%86%d9%81%d8%b3%d9%83-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
