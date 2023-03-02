@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية تحويل الصور الى PDF في العام 2023 مجانًا](https://www.md3bm.com/2023/03/how-to-convert-images-to-pdf.html)
 - [نصائح هامة لتحسين محركات البحث و زيادة عدد زوار موقعك في 2023](https://www.md3bm.com/2023/03/10-tips-for-seo-in-2023.html)
 - [تطبيقات وأدوات ذكاء اصطناعي احترافية ومدهشة لزيادة الانتاجية](https://www.md3bm.com/2023/02/stunning-ai-tools.html)
 - [أفضل 10 وظائف في مجال التكنولوجيا وتقنية المعلومات](https://www.arab-reviewer.com/%d8%a3%d9%81%d8%b6%d9%84-10-%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d8%aa%d9%82%d9%86%d9%8a%d8%a9/)
 - [أفضل القنوات التعليمية والترفيهية للأطفال على اليوتيوب](https://www.md3bm.com/2023/02/best-youtube-channels-for-kids .html)
-- [13 نصيحة لإطالة عمر الكمبيوتر المحمول &lpar;اللابتوب&rpar;](https://www.arab-reviewer.com/13-%d9%86%d8%b5%d9%8a%d8%ad%d8%a9-%d9%84%d8%a5%d8%b7%d8%a7%d9%84%d8%a9-%d8%b9%d9%85%d8%b1-%d8%a7%d9%84%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d9%84/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
