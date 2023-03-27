@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ثورة الـ AI : أهم أدوات و تطبيقات الذكاء الاصطناعي المفيدة](https://www.arab-reviewer.com/%d8%a3%d9%87%d9%85-%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d9%88-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/)
 - [أفضل أكواد HTML و CSS و JS جاهزة على CodePen &lpar;الجزء الخامس&rpar;](https://www.md3bm.com/2023/03/best-pens-and-projects-on-codepen-p5.html)
 - [رسائل رمضان : رسائل وأدعية وتصاميم للتهنئة بقدوم شهر رمضان 2023](https://www.faisal2n.com/2023/03/ramadan-messages-and-designs.html)
 - [كل ما تريد معرفته حول الفرق بين ChatGPT و Bing AI : المزايا والاستخدامات](https://www.md3bm.com/2023/03/differences-between-chatgpt-and-bing-ai.html)
 - [استخدام ChatGPT في التدوين وصناعة المحتوى وتحسين محركات البحث](https://www.md3bm.com/2023/03/using-chatgpt-in-content-creation.html)
-- [7 تطبيقات ويب رائعة يجب أن تبدأ في استخدامها في 2023](https://www.arab-reviewer.com/7-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%88%d9%8a%d8%a8-%d8%b1%d8%a7%d8%a6%d8%b9%d8%a9/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
