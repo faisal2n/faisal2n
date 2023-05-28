@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [كيفية استخدام Chat GPT-4 مجانًا &lpar;خمس طرق&rpar;](https://www.md3bm.com/2023/05/how-to-use-gpt-4-for-free.html)
+- [كيفية استخدام GPT-4 مجانا &lpar;خمس طرق لدخول GPT-4 مجانا&rpar;](https://www.md3bm.com/2023/05/how-to-use-gpt-4-for-free.html)
 - [أفضل أدوات الذكاء الاصطناعي للطلاب &lpar;AI Tools for Students&rpar;](https://www.md3bm.com/2023/05/top-ai-tools-for-students.html)
 - [أهمية التسويق بالمحتوى Content Marketing للأعمال والشركات](https://www.md3bm.com/2023/04/content-marketing-for-business.html)
 - [أفضل أدوات تحويل النص إلى فيديو لإنشاء فيديوهات احترافية في دقائق](https://www.md3bm.com/2023/04/best-text-to-video-tools.html)
