@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كيفية شراء قطع غيار السيارات من الإنترنت في الوطن العربي](https://www.md3bm.com/2023/06/how-to-buy-cars-parts-online.html)
 - [كيف تزيد عدد متابعيك على انستغرام Instagram؟ زيادة متابعي انستغرام](https://www.faisal2n.com/2023/06/get-instagram-followers.html)
 - [لماذا لا يظهر موقع الويب على محرك بحث جوجل؟ &lpar;الأسباب و الحلول&rpar;](https://www.md3bm.com/2023/06/why-isnt-my-website-showing-up-in-google.html)
 - [كيفية استخدام GPT-4 مجانا &lpar;خمس طرق لدخول GPT-4 مجانا&rpar;](https://www.md3bm.com/2023/05/how-to-use-gpt-4-for-free.html)
 - [أفضل أدوات الذكاء الاصطناعي للطلاب &lpar;AI Tools for Students&rpar;](https://www.md3bm.com/2023/05/top-ai-tools-for-students.html)
-- [أهمية التسويق بالمحتوى Content Marketing للأعمال والشركات](https://www.md3bm.com/2023/04/content-marketing-for-business.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
