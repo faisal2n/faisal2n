@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل مواقع و أدوات الترجمة الاحترافية والإبداعية](https://www.md3bm.com/2023/07/top-translation-websites-and-tools.html)
 - [تردد قناة المشهد التلفزيونية على نايل سات وعرب سات](https://www.faisal2n.com/2023/07/almashhad-frequency.html)
 - [مخطوطات العيد وملحقات تصميم تهنئة عيد الأضحى 2023](https://www.faisal2n.com/2023/06/eid-adha-designs-and-typography.html)
 - [أهم مجالات العمل الحر و العمل عبر الإنترنت لعام 2023](https://www.md3bm.com/2023/06/top-self-employment-trends.html)
 - [أفضل المواقع للحصول على أكواد HTML و CSS جاهزة و مجانية](https://www.md3bm.com/2023/06/top-websites-for-html-css-snippets-and-templates.html)
-- [أشهر مواقع التسويق بالعمولة : الشراكة من أجل النجاح](https://www.arab-reviewer.com/%d8%a3%d8%b4%d9%87%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a8%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%84%d8%a9/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
