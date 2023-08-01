@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [تعليم بايثون: أفضل 10 قنوات عربية لتعلم بايثون Python على اليوتيوب](https://www.md3bm.com/2023/08/top-arab-youtube-channels-to-learn-python.html)
 - [خمس دورات مجانية من جوجل مع شهادات معتمدة لعام 2023](https://www.md3bm.com/2023/07/5-free-courses-with-certificates-from-google.html)
 - [كيفية تحويل زوار موقع الويب إلى عملاء حقيقيين](https://www.md3bm.com/2023/07/convert-website-visitors-into-customers.html)
 - [أفضل مواقع و أدوات الترجمة الاحترافية والإبداعية](https://www.md3bm.com/2023/07/top-translation-websites-and-tools.html)
 - [تردد قناة المشهد التلفزيونية على نايل سات وعرب سات](https://www.faisal2n.com/2023/07/almashhad-frequency.html)
-- [مخطوطات العيد وملحقات تصميم تهنئة عيد الأضحى 2023](https://www.faisal2n.com/2023/06/eid-adha-designs-and-typography.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
