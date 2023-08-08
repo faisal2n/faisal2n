@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [تعليم بايثون: أفضل 10 قنوات عربية لتعلم بايثون Python على اليوتيوب](https://www.md3bm.com/2023/08/top-arab-youtube-channels-to-learn-python.html)
-- [خمس دورات مجانية من جوجل مع شهادات معتمدة لعام 2023](https://www.md3bm.com/2023/07/5-free-courses-with-certificates-from-google.html)
-- [كيفية تحويل زوار موقع الويب إلى عملاء حقيقيين](https://www.md3bm.com/2023/07/convert-website-visitors-into-customers.html)
-- [أفضل مواقع و أدوات الترجمة الاحترافية والإبداعية](https://www.md3bm.com/2023/07/top-translation-websites-and-tools.html)
 - [تردد قناة المشهد التلفزيونية على نايل سات وعرب سات](https://www.faisal2n.com/2023/07/almashhad-frequency.html)
+- [مخطوطات العيد وملحقات تصميم تهنئة عيد الأضحى 2023](https://www.faisal2n.com/2023/06/eid-adha-designs-and-typography.html)
+- [أشهر مواقع التسويق بالعمولة : الشراكة من أجل النجاح](https://www.arab-reviewer.com/%d8%a3%d8%b4%d9%87%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a8%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%84%d8%a9/)
+- [استكشف تخصصات الذكاء الاصطناعي](https://www.arab-reviewer.com/%d8%a7%d8%b3%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/)
+- [كيف تزيد عدد متابعيك على انستغرام Instagram؟ زيادة متابعي انستغرام](https://www.faisal2n.com/2023/06/get-instagram-followers.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
