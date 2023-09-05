@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [جامعة اسطنبول](https://www.arab-reviewer.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84/)
 - [أفضل لغات البرمجة للتعلم وأكثرها طلبا في سوق العمل](https://www.md3bm.com/2023/08/top-programming-languages.html)
 - [نهائي كأس العالم للسيدات: إسبانيا و إنجلترا بث مباشر](https://www.faisal2n.com/2023/08/spain-vs-england.html)
 - [تعليم بايثون: أفضل 10 قنوات عربية لتعلم بايثون Python على اليوتيوب](https://www.md3bm.com/2023/08/top-arab-youtube-channels-to-learn-python.html)
 - [خمس دورات مجانية من جوجل مع شهادات معتمدة لعام 2023](https://www.md3bm.com/2023/07/5-free-courses-with-certificates-from-google.html)
-- [كيفية تحويل زوار موقع الويب إلى عملاء حقيقيين](https://www.md3bm.com/2023/07/convert-website-visitors-into-customers.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
