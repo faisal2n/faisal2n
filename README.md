@@ -26,10 +26,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [جامعة اسطنبول](https://www.arab-reviewer.com/%d8%ac%d8%a7%d9%85%d8%b9%d8%a9-%d8%a7%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84/)
-- [أفضل لغات البرمجة للتعلم وأكثرها طلبا في سوق العمل](https://www.md3bm.com/2023/08/top-programming-languages.html)
 - [نهائي كأس العالم للسيدات: إسبانيا و إنجلترا بث مباشر](https://www.faisal2n.com/2023/08/spain-vs-england.html)
-- [تعليم بايثون: أفضل 10 قنوات عربية لتعلم بايثون Python على اليوتيوب](https://www.md3bm.com/2023/08/top-arab-youtube-channels-to-learn-python.html)
-- [خمس دورات مجانية من جوجل مع شهادات معتمدة لعام 2023](https://www.md3bm.com/2023/07/5-free-courses-with-certificates-from-google.html)
+- [تردد قناة المشهد التلفزيونية على نايل سات وعرب سات](https://www.faisal2n.com/2023/07/almashhad-frequency.html)
+- [مخطوطات العيد وملحقات تصميم تهنئة عيد الأضحى 2023](https://www.faisal2n.com/2023/06/eid-adha-designs-and-typography.html)
+- [أشهر مواقع التسويق بالعمولة : الشراكة من أجل النجاح](https://www.arab-reviewer.com/%d8%a3%d8%b4%d9%87%d8%b1-%d9%85%d9%88%d8%a7%d9%82%d8%b9-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a8%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%84%d8%a9/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
