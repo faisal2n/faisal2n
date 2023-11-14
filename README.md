@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [اختبار A/B Testing لتحسين مواقع الويب - أفضل أدوات A/B Testing](https://www.md3bm.com/2023/11/ab-testing-for-websites.html)
 - [التبادل الإعلاني: أفضل طرق الانتشار و كسب المال من مواقع الويب](https://www.md3bm.com/2023/10/ad-exchange.html)
 - [تغلب على منافسيك بأفضل طرق التسويق بالمحتوى](https://www.md3bm.com/2023/10/best-ways-of-content-marketing.html)
 - [أفضل أكواد HTML و CSS و JS جاهزة على CodePen &lpar;الجزء السادس&rpar;](https://www.md3bm.com/2023/10/best-pens-and-projects-on-codepen-p6.html)
 - [أفضل تطبييقات و أدوات الذكاء الاصطناعي للأعمال لعام 2023](https://www.md3bm.com/2023/09/ai-tools-for-business.html)
-- [أفضل لغات البرمجة للتعلم وأكثرها طلبا في سوق العمل](https://www.md3bm.com/2023/08/top-programming-languages.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
