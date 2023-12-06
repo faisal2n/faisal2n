@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل برنامج لتحرير ملفات PDF وتحويلها إلى ملفات Word و Excel لعام 2024](https://www.faisal2n.com/2023/12/best-pdf-editor-2024.html)
 - [أفضل أشكال الإعلانات بناءً على الأهداف الإعلانية](https://www.md3bm.com/2023/12/best-ad-formats.html)
 - [اختبار A/B Testing لتحسين مواقع الويب - أفضل أدوات A/B Testing](https://www.md3bm.com/2023/11/ab-testing-for-websites.html)
 - [التبادل الإعلاني: أفضل طرق الانتشار و كسب المال من مواقع الويب](https://www.md3bm.com/2023/10/ad-exchange.html)
 - [تغلب على منافسيك بأفضل طرق التسويق بالمحتوى](https://www.md3bm.com/2023/10/best-ways-of-content-marketing.html)
-- [أفضل أكواد HTML و CSS و JS جاهزة على CodePen &lpar;الجزء السادس&rpar;](https://www.md3bm.com/2023/10/best-pens-and-projects-on-codepen-p6.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
