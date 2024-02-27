@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [انشاء تصاميم 3D لحسابات التواصل الاجتماعي بـ Bing Image Creator](https://www.md3bm.com/2024/02/create-3d-images-by-bing-ai.html)
 - [خمسة عوامل رئيسية لتحسين موقع الويب لمحركات البحث لعام 2024](https://www.md3bm.com/2024/02/5-factors-to-make-website-seo-friendly.html)
 - [قالب MSD الاحترافي لمدونات بلوجر - أحد أفضل قوالب بلوجر لعام 2024](https://www.faisal2n.com/2024/02/msd-blogger-template.html)
 - [أفضل الأكواد الجاهزة HTML | CSS | Javascript على موقع CodePen &lpar;الجزء السابع&rpar;](https://www.md3bm.com/2024/02/best-pens-on-codepen-p7.html)
 - [التفريغ الصوتي: أفضل مواقع و أدوات تحويل الصوت إلى نص Voice to Text](https://www.md3bm.com/2024/01/best-speech-to-text-tools.html)
-- [أفضل مواقع إنشاء وتوليد الصور بالذكاء الاصطناعي - تحويل النص إلى صورة](https://www.md3bm.com/2024/01/top-ai-image-generators.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
