@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [كل ما تريد معرفته عن أدوات ميتا للذكاء الاصطناعي Meta AI](https://www.md3bm.com/2024/04/meta-ai.html)
 - [مشاهدة دوري أبطال أوروبا بث مباشر | برشلونة وباريس سان جيرمان](https://www.faisal2n.com/2024/04/blog-post.html)
 - [ترتيب المواقع : أفضل منصات تصنيف وترتيب مواقع الويب](https://www.md3bm.com/2024/04/top-websites-ranking-platforms.html)
 - [أفضل منصات تعليمية عربية و أجنبية على الإنترنت بشهادات معتمدة](https://www.md3bm.com/2024/03/best-educational-platforms-websites.html)
 - [انشاء تصاميم 3D لحسابات التواصل الاجتماعي بـ Bing Image Creator](https://www.md3bm.com/2024/02/create-3d-images-by-bing-ai.html)
-- [خمسة عوامل رئيسية لتحسين موقع الويب لمحركات البحث لعام 2024](https://www.md3bm.com/2024/02/5-factors-to-make-website-seo-friendly.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
