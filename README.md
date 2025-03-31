@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [أفضل 30 أداة للتسويق بالذكاء الاصطناعي للشركات والأعمال](https://www.md3bm.com/2025/03/top-30-ai-marketing-tools-for-businesses.html)
 - [أهم إتجاهات تحسين محركات البحث التي يجب العمل بها في عام 2025](https://www.md3bm.com/2025/01/seo-trends-2025.html)
 - [بديل مجاني لـ Midjourney لتوليد صور والفيديوهات بالذكاء الاصطناعي](https://www.md3bm.com/2024/09/leonardo-ai-generator.html)
 - [أفضل المواقع والأدوات المفيدة على الإنترنت - مواقع عربية &lpar;الجزء الرابع&rpar;](https://www.md3bm.com/2024/06/top-arab-websites-part-4.html)
 - [أفضل طرق الإعلان التي تستخدمها مواقع الويب لزيادة المبيعات](https://www.md3bm.com/2024/05/website-advertising-methods-increase-sales.html)
-- [أفضل مواقع إنشاء شعارات مميزة بواسطة الذكاء الاصطناعي](https://www.md3bm.com/2024/05/ai-logo-makers.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
